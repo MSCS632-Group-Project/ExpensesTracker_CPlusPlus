@@ -1,0 +1,12 @@
+# Ignore CLion/JetBrains IDE files
+.idea/
+
+# Ignore CMake build directory
+cmake-build-debug/
+
+# Optional: Ignore CMake-related files if generated elsewhere too
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/

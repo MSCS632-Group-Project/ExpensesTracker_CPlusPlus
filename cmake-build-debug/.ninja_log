@@ -1,0 +1,5 @@
+# ninja log v6
+0	470	1748220313776563179	CMakeFiles/cgroupproject.dir/src/ExpenseTracker.cpp.o	d472d2f7c227a383
+0	383	1748220313776331675	CMakeFiles/cgroupproject.dir/main.cpp.o	eab5cdb06a9a8e09
+1	44	1748220332641148014	build.ninja	92108f0b33a8770d
+3	33	1748220332650469149	cgroupproject	3d7cdba374952c27
